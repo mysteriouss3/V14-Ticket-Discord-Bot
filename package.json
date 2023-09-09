@@ -1,0 +1,16 @@
+{
+  "name": "public-ticket-bot",
+  "version": "1.0.0",
+  "description": "Vezir Oni#0001 Tarafından yapılan public sunucu ticket botudur!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Vezir Oni#0001",
+  "license": "MIT",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord.js": "^14.10.2",
+    "moment": "^2.29.4"
+  }
+}

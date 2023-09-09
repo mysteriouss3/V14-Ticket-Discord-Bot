@@ -1,0 +1,38 @@
+{
+    "Embed_Info": {
+
+        "FooterText": "MysDev® Bot System",
+        "FooterImage": "https://i.imgur.com/uFwh8ev.gif",
+
+        "DangerColor": "#ff0000",
+        "WarningColor": "#ff9100",
+        "SuccessColor": "#1aff00",
+
+        "DangerEmote": "<:Danger:1104382619698860112>",
+        "WarningEmote": "<:Warning:1104382638866841642>",
+        "SuccessEmote": "<:Success:1104382628343337040>",        
+        "UnsuccessEmote": "<:Unsuccess:1104382632600539206>",
+        "BellEmote": "<a:zil:1075697750508851291>"
+
+    },
+
+    "Roles_Info": {
+
+        "Developer": "1080079553935986758",
+
+        "Administrator": "",
+        "Director": ""
+    },
+
+    "Webhooks": {
+
+        "Ticket_Created": "",
+        "Ticket_Claimed": "",
+        "Ticket_Closed": "",
+        "Ticket_Delete": "",        
+        "Ticket_Menu": ""
+
+    },
+
+    "Category": "1075618823836811334"
+}
